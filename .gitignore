@@ -39,3 +39,4 @@
 !src/**/*
 !tst/
 !tst/**/*
+!CMakeLists.txt
